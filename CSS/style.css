@@ -20,12 +20,12 @@ body {
     border: none;
     width: min-content;
     height: min-content;
-    box-shadow: 0 10px 10px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.6);
 }
 
 .poster {
     width: 80vw;
-    height: 90vh;
+    height: 10vh;
 }
 
 /* 
@@ -50,18 +50,40 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2.5rem 2.5rem 0;
+    padding: 0rem 2.5rem 0;
+}
+
+.buton {
+    background: none;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+    padding: 4px 9px;
+    border: 1px solid black;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    
+    display: inline-block;
+    
+    
+}
+
+.buton:hover {
+    background: crimson;
 }
 
 .LogoSize {
-    width: 80px;
+    width: 63px;
     
 }
 
 .SH {
-    width: 60px;
-
+    width: 50px;
 }
+
+
 
 .poster-content {
     margin: .1rem 2rem 1rem 2rem;
@@ -83,7 +105,13 @@ body {
 
 .poster-heading {
     font-size: 15px;
+    margin-top: 1.5rem;
     display: flex;    
+}
+
+.riwayat {
+    display: flex;
+    align-items: center;
 }
 
 .riwayat-text {
