@@ -1,0 +1,19 @@
+AutoDakwah Project To-Do List/Goals:
+Goals--////////////////
+A.Automates Poster Making/Designing.
+    1.Searches images according to input tags or content automatically.
+        - How to get input (img, text/content, and other elements) from user
+            - Place the user input to the corresponding layouts
+    2.Auto-Design a Poster with a single click
+        - Automatically puts the posters elements (e.g: Logos, Img, Content, Text, etc) by providing numbers of set/default layouts.
+
+        - Layout Manager/Layout Making
+            - Learn how to make layout presets
+
+    3.Fonts/Typographic preferences.
+        - Learn how to use CSS & JS to manipulate fonts/typesets
+        - Dealing with arabic fonts (rtL)
+    4.Make a decent UI
+        - How to make UI
+B.Automates Poster Sharing.
+    1. TBW
